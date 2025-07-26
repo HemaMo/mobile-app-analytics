@@ -93,9 +93,9 @@ Conducted detailed visual analysis:
 
 ##  Author
 
-**Ebrahim Mohamed**
+**Ebrahim Abdel Ghany**
 
--  [LinkedIn](https://www.linkedin.com/in/ebrahim-mohamed-655b81323)
+-  [LinkedIn](https://www.linkedin.com/in/ebrahim-abdel-ghany-655b81323/)
 -  GitHub: [HemaMo](https://github.com/HemaMo)
 
 ---
