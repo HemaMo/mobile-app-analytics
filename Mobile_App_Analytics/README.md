@@ -78,21 +78,6 @@ Conducted detailed visual analysis:
 
 ---
 
-##  Project Structure
-
-```bash
-📁 Mobile App Analytics/
-├── 📄 README.md
-├── 📊 Mobile_App_Analytics.ipynb
-├── 📁 data/
-│   ├── users.csv
-│   └── sessions.csv
-│   └── merged_data_cleaned.csv
-
-```
-
----
-
 ##  Author
 
 **Ebrahim Abdel Ghany**
