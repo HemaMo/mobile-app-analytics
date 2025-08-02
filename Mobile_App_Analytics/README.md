@@ -101,7 +101,3 @@ Conducted detailed visual analysis:
 -  GitHub: [HemaMo](https://github.com/HemaMo)
 
 ---
-
-##  If you found this useful...
-
-Please consider giving it a ⭐ on GitHub or sharing it on LinkedIn!
